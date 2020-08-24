@@ -1,6 +1,6 @@
 # COMPLETION OF SPARSE AND PARTIAL POINT CLOUDS OF VEHICLES USING A NOVEL END-TO-END NETWORK
 
-###### <font color=CornflowerBlue>Yan Xia, Weiquan Liu, Zhipeng Luo, Yusheng Xu, Uwe Stilla.</font>
+###### [Yan Xia](https://scholar.google.com/citations?user=xkBn4mMAAAAJ&hl=zh-CN), [Weiquan Liu](https://scholar.google.com.sg/citations?user=vNDNtP8AAAAJ&hl=zh-CN), [Zhipeng Luo](https://www.researchgate.net/profile/Zhipeng_Luo5), [Yusheng Xu](https://scholar.google.com.hk/citations?user=U1xaKegAAAAJ&hl=en), [Uwe Stilla](https://scholar.google.com.hk/citations?user=M3beNHEAAAAJ&hl=en).
 
 ------
 
